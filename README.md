@@ -1,5 +1,4 @@
-# ec2manager
-
+0708691131#c2manager
 Demo project to manage AWS EC2 instance snapshots
 
 ## About
